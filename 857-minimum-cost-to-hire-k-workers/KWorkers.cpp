@@ -7,14 +7,14 @@ class Solution {
     
             vector<pair<double, int>> razaoSalarioQualidade;
             for (int i = 0; i < n; ++i) {
-                // razão de salário e qualidade de cada trabalhador
+                // Razão de salário e qualidade de cada trabalhador
                 razaoSalarioQualidade.emplace_back(
                     static_cast<double>(wage[i]) / quality[i], quality[i]);
             }
 
             sort(razaoSalarioQualidade.begin(), razaoSalarioQualidade.end());
     
-            //max-heap para qualidades
+            //Max-heap para qualidades
             priority_queue<int> highQualityWorkers;
     
             for (int i = 0; i < n; ++i) {
