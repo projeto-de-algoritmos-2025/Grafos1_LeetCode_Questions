@@ -1,6 +1,6 @@
 # Grafos1_LeetCode_Questions
 
-**Número da Lista**: X<br>
+**Número da Lista**: 1<br>
 **Conteúdo da Disciplina**: Grafos 1<br>
 
 ## Alunos
@@ -10,18 +10,11 @@
 | 221031185  |  João Artur Leles Ferreira Pinheiro|
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Resolução de questões do LeetCode (3 questões por integrante do grupo) com o objetivo de demonstrar o conhecimento adquirido no primeiro módulo da disciplina.
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
-
-## Instalação 
-**Linguagem**: A definir<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+## Problemas Resolvidos
+| Problema | Enunciado | Solução | Dificuldade | Autor da Resolução |
+| -- | -- | -- | -- | -- |
+| 1 | [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Código](./301-remove-invalid-parentheses/solution.cpp) | Difícil | Gustavo Melo |
+| 2 | [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) | [Código](./329-longest-increasing-path-in-a-matrix/solution.cpp) | Difícil | Gustavo Melo |
+| 3 | [1203. Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/description/) | [Código](./1203-sort-items-by-groups-respecting-dependencies/solution.cpp) | Difícil | Gustavo Melo |
