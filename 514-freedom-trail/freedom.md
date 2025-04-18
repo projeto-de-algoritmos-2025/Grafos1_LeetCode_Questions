@@ -2,6 +2,8 @@
 
 A questão está disponível no [Link](https://leetcode.com/problems/freedom-trail/description/).
 
+Dificuldade da questão: Difícil
+
 Imagens da questão e resolução
 
 ![questao 1](/514-freedom-trail/assets/questao1.png)
