@@ -21,3 +21,6 @@ Resolução de questões do LeetCode (3 questões por integrante do grupo) com o
 | 4 | [514. Freedom Trail](https://leetcode.com/problems/freedom-trail/description/) | [Código](./514-freedom-trail/freedom.cpp) | Difícil | João Artur Leles |
 | 5 | [857. Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/) | [Código](./857-minimum-cost-to-hire-k-workers/KWorkers.cpp) | Difícil | João Artur Leles |
 | 6 | [773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/) | [Código](./773-sliding-puzzle/slidingPuzzle.cpp) | Difícil | João Artur Leles |
+
+## Vídeos de Apresentação
+[Vídeo de apresentação dos problemas 1, 2 e 3](https://www.youtube.com/watch?v=PVcfojVnZew).
